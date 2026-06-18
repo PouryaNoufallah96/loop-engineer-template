@@ -7,3 +7,7 @@
 
 # Local Claude Code state (keep skills/ + workflows/, ignore local settings)
 .claude/settings.local.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
